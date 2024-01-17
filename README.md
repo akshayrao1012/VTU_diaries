@@ -5,6 +5,8 @@
 
 There were around 1400 entries from all over the country, from which only 70 got selected. From Karnataka only 7 were selected, and from Mangalore among 18 engineering colleges only ours was selected.
 
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/elecramacertificate.png)
+
 ## RECOGNITIONS FOR OUR PROJECT
 *SELF BALANCING PERSONAL TRANSPORTER*
 
