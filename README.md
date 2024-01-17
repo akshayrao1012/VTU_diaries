@@ -1,4 +1,5 @@
 # VTU_diaries
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/collage.png)
 
 # ELECRAMA-2014
 *Conducted by IEEMA (INDIAN ELECTRICAL & ELECTRONICS MANUFACTURERS' ASSOCIATION)*
