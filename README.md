@@ -32,12 +32,12 @@ The two-wheeled, self-balancing, battery-powered electric vehicle has been made 
 ![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/bangaloremirror.png)
 
 **DECCAN HERALD**  
-
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/deccanherald.png)
 
 **VIJAY KARNATAKA**  
-
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/vijaykarnataka.png)
 
 **VARTHA BHARATHI**
-
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/varthabharathi.png)
 
 ```
