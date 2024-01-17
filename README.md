@@ -11,6 +11,7 @@ There were around 1400 entries from all over the country, from which only 70 got
 *SELF BALANCING PERSONAL TRANSPORTER*
 
 **INDIAN EXPRESS**
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/indianexpress.png)
 Mangalore: Electric Vehicle Prototype Designed by Students from PACE
 
 *Published Date: 29 Jan, 2014 (4:21 PM)*
@@ -23,10 +24,20 @@ The final year students, Karthik A, Ashraf K, Asif Muthafa Baig and Akshay Rao u
 
 An Arduino UNO board and motors in the base of the device keep the vehicle upright when powered on with balancing enabled. A user commands the vehicle to go forward by shifting their weight forward on the platform and backward by shifting their weight backward. The vehicle detects, as it balances, the change in its center of mass, and first establishes and then maintains a corresponding speed, forward or backward. An accelerometer and a gyroscope detect the weight shift. To turn, the user tilts the handlebar, which is coupled to a potentiometer, in the desired direction.
 
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/pressrelease.png)
+
 The two-wheeled, self-balancing, battery-powered electric vehicle has been made affordable by eliminating all the redundant electronics i.e. instead of five inertial measurement units, which is an electronic device that measures and reports on a craft’s velocity orientation and gravitational forces, using a combination of accelerometers and gyroscopes, they used only one with an altered code. They made use of a wooden frame and used open source software for the coding and programming of the transporter, and this resulted in huge savings.
 
 **BANGALORE MIRROR**  
+![Image Alt text](https://github.com/akshayrao1012/VTU_diaries/blob/main/images/bangaloremirror.png)
+
 **DECCAN HERALD**  
+
+
 **VIJAY KARNATAKA**  
+
+
 **VARTHA BHARATHI**
+
+
 ```
